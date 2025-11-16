@@ -1,4 +1,4 @@
-# postgres-my-beginner-to-hero-journey
+
 
 # 📘 PostgreSQL Professional Learning Program (10-Day Portfolio Project)
 ### A complete hands-on SQL learning journey using pgAdmin + a real business use case

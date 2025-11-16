@@ -22,7 +22,7 @@ You will:
 - PostgreSQL server installed and running.
 - pgAdmin installed and connected to your PostgreSQL server.
 - A superuser or a user with permission to create databases (e.g. `postgres` or your admin user).
-- Optional: an application user like `charles` who will own the `dev_portfolio` database.
+- Optional: an application user like `yourself` who will own the `dev_portfolio` database.
 
 ---
 
@@ -34,10 +34,10 @@ In pgAdmin:
 2. Run:
 
 ```sql
-CREATE DATABASE dev_portfolio OWNER charles;
+CREATE DATABASE dev_portfolio OWNER yourself;
 ```
 
-> If you don't have a `charles` role, either create it or remove `OWNER charles` and let PostgreSQL choose the default owner.
+> If you don't have a `yourself` role, either create it or remove `OWNER yourself` and let PostgreSQL choose the default owner.
 
 3. In pgAdmin, **refresh** the server and connect to the new `dev_portfolio` database.
 
