@@ -34,7 +34,7 @@ In pgAdmin:
 2. Run:
 
 ```sql
-CREATE DATABASE dev_portfolio OWNER charles;
+CREATE DATABASE dev_portfolio OWNER yourself;
 ```
 
 > If you don't have a `charles` role, either create it or remove `OWNER charles` and let PostgreSQL choose the default owner.
