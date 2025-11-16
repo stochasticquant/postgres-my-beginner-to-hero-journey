@@ -22,7 +22,7 @@ You will:
 - PostgreSQL server installed and running.
 - pgAdmin installed and connected to your PostgreSQL server.
 - A superuser or a user with permission to create databases (e.g. `postgres` or your admin user).
-- Optional: an application user like `charles` who will own the `dev_portfolio` database.
+- Optional: an application user like `yourself` who will own the `dev_portfolio` database.
 
 ---
 
