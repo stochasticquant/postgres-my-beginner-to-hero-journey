@@ -253,8 +253,3 @@ It is suitable for anyone targeting:
 
 ---
 
-If you'd like, I can also generate:
-
-✅ ERD diagram  
-✅ SQL scripts for each day  
-✅ A zip file with full folder structure  
