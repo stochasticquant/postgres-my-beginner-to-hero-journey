@@ -37,7 +37,7 @@ In pgAdmin:
 CREATE DATABASE dev_portfolio OWNER yourself;
 ```
 
-> If you don't have a `charles` role, either create it or remove `OWNER charles` and let PostgreSQL choose the default owner.
+> If you don't have a `yourself` role, either create it or remove `OWNER yourself` and let PostgreSQL choose the default owner.
 
 3. In pgAdmin, **refresh** the server and connect to the new `dev_portfolio` database.
 
