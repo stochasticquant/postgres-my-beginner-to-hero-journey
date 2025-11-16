@@ -1,7 +1,7 @@
 # About Me  
 ## Charles Sambo  
 
-Hello! I’m Charles Sambo — Cloud Engineer at Azure, DevOps enthusiast, data-platform tinkerer, and author at [cloudworrior.com](https://www.cloudworrior.com). :contentReference[oaicite:1]{index=1}  
+Hello! I’m Charles Sambo — Cloud Engineer at Azure, DevOps enthusiast, data-platform tinkerer, and author at [cloudworrior.com](https://www.cloudworrior.com). 
 
 With a passion for building reliable, scalable infrastructure and solving real business challenges, I’ve spent my career doing things like:
 
